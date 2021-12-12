@@ -4,3 +4,5 @@ Gitの練習をする。
 ・git commit
 
 ・本日からTwitterでアプリ制作の様子をツイートしていきたいと思います。
+
+・git rm
